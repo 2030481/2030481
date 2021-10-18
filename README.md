@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Malbolge & Haskell.
 - 💞️ I’m looking to collaborate on Open source Software.
 - 📫 How to reach me Sorry I'm busy in learning...
-- 👨🏻‍💻 U can Call Me WhiteDevil of Dev's World.
+- 👨🏻‍💻 Quick Learner! 
 
 <!---
 2030481/2030481 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
