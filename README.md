@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning more about frontend development!
 - 🌱 I’m currently learning Malbolge & Haskell.
 - 💞️ I’m looking to collaborate on Open source Software.
-- 📫 How to reach me Sorry I'm busy in learning...
-- 👨🏻‍💻 Quick Learner! 
+- 📫 S.L.I.E.T
+- 👨🏻‍💻 Quick Learner!
 
 <!---
 2030481/2030481 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
