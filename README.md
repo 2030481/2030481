@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Malbolge & Haskell.
 - 💞️ I’m looking to collaborate on Open source Software.
 - 📫 S.L.I.E.T
+  ⏳ 23rd Oct 2021
+
 - 👨🏻‍💻 Quick Learner!
 
 <!---
