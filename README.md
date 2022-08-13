@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @2030481 I am in 3rd year b.tech students<sliet>.
+- 👋 Hi, I’m @2030481 I am in 4th year B.E. students<sliet>.
 - 👀 I’m interested in learning more about frontend development!
 - 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on Open source Software.
 - 📫 S.L.I.E.T
   ⏳ 23rd Oct 2021
-
+-
 - 👨🏻‍💻 Quick Learner!
 
 <!---
