@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2030481 I am in 4th year B.E. students<sliet>.
+- 👋 Hi, I’m @2030481 <sliet>.
 - 👀 I’m interested in learning more about frontend development!
 - 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on Open source Software.
