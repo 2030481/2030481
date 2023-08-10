@@ -11,7 +11,11 @@
  
 | <a href="https://github.com/2030481/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2030481&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/2030481/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2030481&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<p align="center">
+  <a href="https://github.com/2030481">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=2030481&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 
 
