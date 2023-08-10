@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Ravi Ranjan Kumar <sliet>.
-- 👀 I’m interested in learning more about frontend development!
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on Open source Software.
-- 📫 S.L.I.E.T
-  ⏳ Lands on Github on 23rd Oct 2021.
+<h2>Hi, I'm Ravi Ranjan! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p><em>Front-end Engineer  <a href="#">😊</a> . </em>
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Front-end+developer;have+high+creativity;Know+To+Design+In+Figma;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
 
  
