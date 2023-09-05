@@ -7,10 +7,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
- # 📊 GitHub Stats:
- 
-| <a href="https://github.com/2030481/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2030481&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/2030481/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2030481&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ # 📊 Welcome to Profile...
 <p align="center">
   <a href="https://github.com/2030481">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=2030481&theme=dark&hide_border=true&stroke=f53b3b"/>
